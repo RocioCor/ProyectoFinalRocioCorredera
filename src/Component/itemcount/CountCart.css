@@ -1,0 +1,19 @@
+.Counter{
+    display: flex;
+    flex-direction: column;
+    border-style:groove;
+border-color: black;
+border-radius: 5%;
+width: 20vh;
+height: 20vh;
+}
+
+.Counter button{
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+     width: 20vh;
+    height: 20%;
+  
+}

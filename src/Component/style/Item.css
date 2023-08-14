@@ -1,0 +1,18 @@
+.CardItem{
+background-color: rgba(0, 255, 255, 0.318);
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+height: 300px;
+margin: 0%;
+padding: 0%;
+}
+.CardItem img{
+    height: 90px;
+    flex-direction: row;
+    
+}
+.CardItem header{
+    font-size: 15px;
+}

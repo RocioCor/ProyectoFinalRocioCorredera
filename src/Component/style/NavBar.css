@@ -1,0 +1,33 @@
+.NavBar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #232323;
+    color: #fff;
+    padding: 0%;
+  }
+  .NavBar .Option{
+    color: #f9ffffc3;
+    margin-right: 25vh;
+    display: inline-block
+  
+  }
+  .NavBar img{
+   width: 25%;
+   height:35%;
+   border-radius: 50%;
+  }
+  .NavBar div{
+      
+    justify-items: end;
+    margin-left: 10%;
+    margin-right: 0px;
+    height: 50%;
+  }
+  .NavBar span{
+    color: #f9ffffc3;
+  }
+  .NavBar a{
+    text-decoration: none;
+   
+  }
